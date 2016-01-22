@@ -6,17 +6,21 @@ Android学习的笔记
 这是记录Android学习过程中的笔记，以及总结一些知识点，工具，资源等
 
 #目录
-[学习方法/路线总结](#方法和路线)
-[关注的优秀Android开发者博客和技术网站](#博客)
-[Android 开发学习路线图](#Android 开发学习路线图)
 
-<h3 id="方法和路线">学习方法/路线总结</h3>
+一. [学习方法/路线总结](#方法和路线)
+
+二. [关注的优秀Android开发者博客和技术网站](#博客)
+
+三. [Android 开发学习路线图](#Android 开发学习路线图)
+
+
+<h3 id="方法和路线">一. 学习方法/路线总结</h3>
 1. [Android学习进阶路线导航线路](http://blog.csdn.net/qinjuning/article/details/7416208)
 2. [Android学习路线指南](http://blog.csdn.net/singwhatiwanna/article/details/49560409)
 3. [Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 
 
-<h3 id="博客">关注的优秀Android开发者博客和技术网站</h3>
+<h3 id="博客">二. 关注的优秀Android开发者博客和技术网站</h3>
 ####国内:
 1. [胡凯](http://hukai.me/)
 2. [罗升阳](http://blog.csdn.net/Luoshengyang/)
@@ -46,6 +50,6 @@ Android学习的笔记
 2. [稀土掘金](http://gold.xitu.io/#/)
 3. [Android Weekly](http://androidweekly.net/)
 
-<h3 id='Android 开发学习路线图'>Android 开发学习路线图</h3>
+<h3 id='Android 开发学习路线图'>三. Android 开发学习路线图</h3>
 （图片转自(http://finalshares.com/read-2265))
 ![image](https://github.com/ccc013/Android-Study/raw/master/pictures/Android开发学习路线图.jpg "Android开发学习路线图")
