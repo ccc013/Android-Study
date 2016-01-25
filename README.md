@@ -49,6 +49,7 @@ Android学习的笔记
 1. [干货集中营](http://gank.io/)
 2. [稀土掘金](http://gold.xitu.io/#/)
 3. [Android Weekly](http://androidweekly.net/)
+4. [AndroidDevTools](http://www.androiddevtools.cn/)
 
 <h3 id='Android 开发学习路线图'>三. Android 开发学习路线图</h3>
 （图片转自(http://finalshares.com/read-2265))
