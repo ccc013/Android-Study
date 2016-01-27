@@ -50,6 +50,7 @@ Android学习的笔记
 2. [稀土掘金](http://gold.xitu.io/#/)
 3. [Android Weekly](http://androidweekly.net/)
 4. [AndroidDevTools](http://www.androiddevtools.cn/)
+5. [android_guides](https://github.com/codepath/android_guides/wiki)
 
 <h3 id='Android 开发学习路线图'>三. Android 开发学习路线图</h3>
 （图片转自(http://finalshares.com/read-2265))
