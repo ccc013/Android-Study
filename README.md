@@ -19,7 +19,8 @@ Android学习的笔记
 2. [Android学习进阶路线导航线路](http://blog.csdn.net/qinjuning/article/details/7416208)
 3. [Android学习路线指南](http://blog.csdn.net/singwhatiwanna/article/details/49560409)
 4. [Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
-5. [Android 你应该知道的学习资源 进阶之路贵在坚持](http://blog.csdn.net/lmj623565791/article/details/44754023)
+5. [android学习路线：如何成长为高级工程师](http://blog.csdn.net/singwhatiwanna/article/details/42343847)
+6. [Android 你应该知道的学习资源 进阶之路贵在坚持](http://blog.csdn.net/lmj623565791/article/details/44754023)
 
 
 <h3 id="博客">二. 关注的优秀Android开发者博客和技术网站</h3>
@@ -31,7 +32,12 @@ Android学习的笔记
 5. [任玉刚](http://blog.csdn.net/singwhatiwanna/article/category/1405419)
 6. [张兴业](http://blog.csdn.net/xyz_lmn?viewmode=contents)
 7. [魏祝林](http://blog.csdn.net/android_tutor)
-8. [更多国内优秀开发者的博客](https://github.com/android-cn/android-dev-cn)
+8. [代码家](http://blog.daimajia.com/)
+9. [HujiaweiBujidao](http://hujiaweibujidao.github.io/)
+10. [Drakeet的个人博客](https://drakeet.me/)
+11. [张涛-开源实验室](http://www.kymjs.com/)
+12. [咕咚](http://gudong.name/)
+11. [更多国内优秀开发者的博客](https://github.com/android-cn/android-dev-cn)
 
 ####国外:
 (国外著名优秀开发者博客)[https://github.com/android-cn/android-dev-cn]
