@@ -61,6 +61,11 @@ Android学习的笔记
 5. [android_guides](https://github.com/codepath/android_guides/wiki)
 6. [开发技术前线](http://www.devtf.cn/)
 
+####官方教程网站
+1. [Android 6.0官方文档(国内镜像)](http://android.xsoftlab.net/)
+2. [Android 官方培训中文版](http://hukai.me/android-training-course-in-chinese/index.html)
+
+
 <h3 id='Android 开发学习路线图'>三. Android 开发学习路线图</h3>
 （图片转自(http://finalshares.com/read-2265))
 ![image](https://github.com/ccc013/Android-Study/raw/master/pictures/Android开发学习路线图.jpg "Android开发学习路线图")
